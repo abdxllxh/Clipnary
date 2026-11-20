@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 190 44" role="img" aria-labelledby="title desc">
+  <title id="title">Clipnary</title>
+  <desc id="desc">Clipnary wordmark with a C and play mark</desc>
+  <rect x="1" y="2" width="40" height="40" rx="12" fill="#151B2B" stroke="#D6FF75" stroke-opacity=".28"/>
+  <path d="M28.2 11.4a10.8 10.8 0 1 0 0 19.2" fill="none" stroke="#D6FF75" stroke-width="3.8" stroke-linecap="round"/>
+  <path d="m17.2 15.3 10 6.7-10 6.7z" fill="#D6FF75"/>
+  <text x="54" y="30" fill="#F7F9FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="800" letter-spacing="-1.2">clip</text>
+  <text x="105" y="30" fill="#D6FF75" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="800" letter-spacing="-1.2">nary</text>
+</svg>

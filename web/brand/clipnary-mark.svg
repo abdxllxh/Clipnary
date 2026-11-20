@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36" role="img" aria-labelledby="title desc">
+  <title id="title">Clipnary</title>
+  <desc id="desc">A lime C-shaped mark with a play symbol</desc>
+  <rect width="36" height="36" rx="11" fill="#151B2B"/>
+  <path d="M24.2 9.4a9.7 9.7 0 1 0 0 17.2" fill="none" stroke="#D6FF75" stroke-width="3.6" stroke-linecap="round"/>
+  <path d="m15.4 13.3 9 4.7-9 4.7z" fill="#D6FF75"/>
+</svg>
